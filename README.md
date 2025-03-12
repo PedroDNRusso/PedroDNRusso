@@ -28,4 +28,4 @@
   <a href = "mailto:pedrodnrusso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a
 </div>
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroDuarte2007/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroDNRusso/count.svg" /></p>
