@@ -35,4 +35,4 @@
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroDNRusso/count.svg" /></p>
 <br>
-                <img src="https://widgetbite.com/banner?title=Pedro%20Russo&subtitle=GitHub%20Repository&backgroundpalette=harvest&fontpalette=autumn&titletransform=scale&subtitletransform=scale" width=100% height=100%/
+  <img src="https://widgetbite.com/banner?title=Pedro%20Russo&subtitle=GitHub%20Repository&backgroundpalette=harvest&fontpalette=autumn&titletransform=scale&subtitletransform=scale" width=100% height=100%/>
